@@ -1,0 +1,29 @@
+
+    .main__shop{display: flex;
+        justify-content: center;
+        // section{ display: flex;
+        //     width: 800px;
+        //     margin: 0 auto;
+        // }
+       
+        &__card{
+            margin: auto 0;
+            margin-inline: 70px;
+            align-items: center;
+            text-align: center;
+        }
+    }
+
+
+
+@media screen and (max_width:1000px){
+   
+.main__shop{
+    border: 2px solid black;
+}
+
+
+         
+           
+    
+}

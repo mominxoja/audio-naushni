@@ -1,0 +1,17 @@
+.main__airpod{
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid;
+    display: flex;
+    &__text{
+        align-items: center;
+        margin: auto auto;
+        border: 2px solid yellow;
+        button{
+            background-color: black;
+            padding: 17px 50px;
+            color: aliceblue;
+            margin-top: 40px;
+        }
+    }
+}

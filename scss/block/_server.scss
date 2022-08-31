@@ -1,0 +1,63 @@
+.main__server{
+    width: 80%;
+    height: 320px;
+    // border: 2px solid black;
+    // padding: 10px;
+    background-color: rgb(227, 90, 31);
+    margin: 0 auto;
+    // justify-content: space-around;
+    &__card{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 1px small;
+        
+        
+        
+
+    .card5{
+        .zx{
+            font-size: 50px;
+            width: 200px;
+        }
+
+        
+
+    
+        width: 450px;
+        
+        // border: 2px solid black;
+        // color: aliceblue;
+        // line-height: 50px;
+        // border: 10px solid;
+        h3{
+            color: aliceblue;
+            margin-bottom: 20px;
+        }     
+           
+        
+
+        
+
+    }
+    .btn1{
+        width: 160px;
+        height: 48px;
+        margin-left: 96px;
+        margin-top: 32px;
+        background-color: #000000;
+        border: none;
+        color: #fff;
+        height: 48px;
+         
+    }
+}
+   
+}
+   
+
+ @media screen and (max-width:1000px){
+    .main__server{
+        width: 1000px;
+    }
+ }  
